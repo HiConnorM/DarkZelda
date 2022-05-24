@@ -1,2 +1,2 @@
-# DarkZelda
-Dark Souls but its Zelda
+# Zeldan Ring
+Elden Ring but its a zelda type
