@@ -19,7 +19,7 @@ class Game:
 
             self.screen.fill('black')
             self.level.run()
-            pygame.display.set_caption("Dark Zelda")
+            pygame.display.set_caption("Zeldan Ring")
             pygame.display.update()
             self.clock.tick(FPS)
 
